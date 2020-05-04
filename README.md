@@ -3,7 +3,7 @@
 
 #### Explaination
 
-This tool was made to aid the production of a report, available at [evanharwin.com/projects/linkage_report.pdf]. The introduction to the report may serve as a further explaination to anyone who thinks that this tool may be of use to them. This software is free to use (under the Mozilla Public License 2.0), and I'd happily offer further explaination to anyone who might need it at evanharwin@gmail.com.
+This tool was made to aid the production of a report, available at [http://evanharwin.com/projects/linkage_report.pdf]. The introduction to the report may serve as a further explaination to anyone who thinks that this tool may be of use to them. This software is free to use (under the Mozilla Public License 2.0), and I'd happily offer further explaination to anyone who might need it at evanharwin@gmail.com.
 
 #### Usage
 
